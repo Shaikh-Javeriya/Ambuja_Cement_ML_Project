@@ -87,7 +87,7 @@ I       * dentification of outliers and trends.
 
 1. Clone this repository to your local system:
 bash
-git clone https://github.com/your-username/Chemical_Property_Modelling.git
+git clone https://github.com/Shaikh-Javeriya/Ambuja_Cement_ML_Project.git
 
 2. Navigate to each task folder for specific components of the workflow.
 3. Open the Jupyter notebooks in any Python IDE or Jupyter environment to reproduce the analysis.
