@@ -97,7 +97,7 @@ git clone https://github.com/your-username/Chemical_Property_Modelling.git
 For questions or feedback, feel free to reach out:
 
 Email: [skjaveriya.11@gmail.com]
-LinkedIn: [Your LinkedIn Profile]
+LinkedIn: [www.linkedin.com/in/javeriya-shaikh-57869a231]
 ***
 
 
