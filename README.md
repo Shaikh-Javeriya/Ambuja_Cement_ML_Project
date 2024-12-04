@@ -96,8 +96,8 @@ git clone https://github.com/Shaikh-Javeriya/Ambuja_Cement_ML_Project.git
 ### Contact
 For questions or feedback, feel free to reach out:
 
-Email: [skjaveriya.11@gmail.com]
-LinkedIn: [www.linkedin.com/in/javeriya-shaikh-57869a231]
+* Email: [skjaveriya.11@gmail.com]
+* LinkedIn: [www.linkedin.com/in/javeriya-shaikh-57869a231]
 ***
 
 
